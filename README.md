@@ -1,4 +1,5 @@
 创建你的m3u
+https://raw.githubusercontent.com/190058/YouTube_to_m3u/main/youtube.m3u
 
 ## 📡 From Global Playlist to Personalized Streaming — Introducing [M3USe](https://m3use.projectmoose.xyz)
 
